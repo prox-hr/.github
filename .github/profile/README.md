@@ -2,10 +2,6 @@
 
 Applied AI for hiring: we build products that make recruitment more human.
 
-<p align="center">
-  <img src="https://raw.githubusercontentusercontent.com/prox-hr/proximity/main/src/icons/proximity.svg" width="96" alt="Proximity logo" />
-</p>
-
 ## Products
 
 * [**Proximity**](https://github.com/prox-hr/proximity): AI-powered job semantic matching. Upload a PDF, get matched. No forms, no keyword filters.
